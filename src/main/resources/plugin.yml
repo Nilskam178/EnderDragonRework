@@ -1,0 +1,6 @@
+name: Enderdragonrework
+version: '${project.version}'
+main: enderdragonrework.enderdragonrework.Main
+api-version: 1.18
+prefix: END
+authors: [ Crusader420_ ]
